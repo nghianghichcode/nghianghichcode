@@ -3,7 +3,7 @@
 ![Banner](https://raw.githubusercontent.com/nghianghichcode/nghianghichcode/main/assets/banner.png)
 
 </div>
-# 👋 I'm Nguyen Viet Nghia!
+👋 I'm Nguyen Viet Nghia!
 
 ### I am a Student at VINH University 🇻🇳
 <div align="center">
