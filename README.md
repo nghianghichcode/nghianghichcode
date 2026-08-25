@@ -1,3 +1,8 @@
+<div align="center">
+
+![Banner](https://raw.githubusercontent.com/nghianghichcode/main/assets/banner.png)
+
+</div>
 # 👋 I'm Nguyen Viet Nghia!
 
 ### I am a Student at VINH University 🇻🇳
