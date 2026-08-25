@@ -1,7 +1,11 @@
 # 👋 I'm Nguyen Viet Nghia!
 
 ### I am a Student at VINH University 🇻🇳
-https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There%21+%F0%9F%91%8B%3BI%27m+Nguyen+Viet+Nghia%21%3BWelcome+to+my+GitHub%21%3BNice+to+meet+you%21%3B
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Nguyen+Viet+Nghia!;Welcome+to+my+GitHub!;Nice+to+meet+you!;)](https://git.io/typing-svg)
+
+</div>
 ---
 
 ## 🛠️ My knowledge
